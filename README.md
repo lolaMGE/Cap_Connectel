@@ -56,6 +56,8 @@ Multiple machine learning models were evaluated to identify the best-performing 
 
 * Random Forest Classifier
 
+* XGboost
+
 ### Model Evaluation Metrics
 
 * Accuracy provided a general measure of model performance.
